@@ -1,2 +1,5 @@
 # Cypress-Automation-Framework
-With this project I put my Cypress knowledge into practice, where I set up an automated test that tests an online store. I chose to use https://automationteststore.com/ because it is very extensive
+
+This is a self learning process in which I choose to test https://automationteststore.com/ web site using Cypress.   
+In this project you can find e2e folder where I write the test with the Page Object Models that can be found in support folder along with the handler I made to login.
+I use Page Object Model to reduce code duplication and improve test case maintenance.
